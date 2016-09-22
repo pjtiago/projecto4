@@ -1,0 +1,67 @@
+body{
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    background-color: black;
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #777;
+    font-size: 15px;
+}
+
+b, strong {
+    font-weight: 700;
+     font-size: 20px;
+}
+
+#foot {
+    font-size:16px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    position: fixed;
+    height: 25px;
+    bottom: 0;
+    width: 100%;
+}
+
+
+#intrucoes{
+    margin-left: 10px;
+}
+
+.inf{
+    font-size: 16px;
+    background-color: #ddd;
+    color:black;
+}
+.information{
+
+    background-color: #f2f2f2;
+}
+
+
+
+@media (min-width: 1919px) {
+     #contentor {
+         
+         width: 1500px;
+    }
+}
+
+#linkajuda{
+    margin-bottom: 5px;
+}
+
+.glyphicon.glyphicon-question-sign {
+    font-size: 20px;
+}
+
+
